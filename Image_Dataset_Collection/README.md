@@ -1,4 +1,4 @@
-**📥 [Download the Dataset from Kaggle](https://www.kaggle.com/datasets/onkarshinde02/divine-vision)**  
+**📥 [Download the Dataset (Uploaded on Kaggle)](https://www.kaggle.com/datasets/onkarshinde02/divine-vision)**  
 
 
 ##  **Overview**  
