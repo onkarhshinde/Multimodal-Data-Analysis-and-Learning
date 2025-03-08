@@ -62,3 +62,5 @@ Data was gathered from reputable meteorological sources over a one-month period,
 
 The dataset is available in CSV format in files above mentioned naming IndiaClimate20_historical_data.csv
 
+## Dataset analysis is as below:
+![output](https://github.com/user-attachments/assets/a4a7a82a-e0af-4e74-9b0f-6ef2f679a0d8)
