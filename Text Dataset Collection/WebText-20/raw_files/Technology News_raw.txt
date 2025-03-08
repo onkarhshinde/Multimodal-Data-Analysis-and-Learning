@@ -1,0 +1,144 @@
+
+Title: TechCrunch | Startup and Technology News
+Content: 
+
+		Latest	
+ 
+
+		AI	
+ 
+
+		Amazon	
+ 
+
+		Apps	
+ 
+
+		Biotech & Health	
+ 
+
+		Climate	
+ 
+
+		Cloud Computing	
+ 
+
+		Commerce	
+ 
+
+		Crypto	
+ 
+
+		Enterprise	
+ 
+
+		EVs	
+ 
+
+		Fintech	
+ 
+
+		Fundraising	
+ 
+
+		Gadgets	
+ 
+
+		Gaming	
+ 
+
+		Google	
+ 
+
+		Government & Policy	
+ 
+
+		Hardware	
+ 
+
+		Instagram	
+ 
+
+		Layoffs	
+ 
+
+		Media & Entertainment	
+ 
+
+		Meta	
+ 
+
+		Microsoft	
+ 
+
+		Privacy	
+ 
+
+		Robotics	
+ 
+
+		Security	
+ 
+
+		Social	
+ 
+
+		Space	
+ 
+
+		Startups	
+ 
+
+		TikTok	
+ 
+
+		Transportation	
+ 
+
+		Venture	
+ 
+
+		Events	
+ 
+
+		Startup Battlefield	
+ 
+
+		StrictlyVC	
+ 
+
+		Newsletters	
+ 
+
+		Podcasts	
+ 
+
+		Videos	
+ 
+
+		Partner Content	
+ 
+
+		TechCrunch Brand Studio	
+ 
+
+		Crunchboard	
+ 
+
+		Contact Us	
+ Top Headlines   Amazon reportedly forms a new agentic AI group
+  Klarna CEO doubts that other companies will replace Salesforce with AI
+  Hackers launder most of Bybit’s stolen crypto worth $1.4B
+  Mach Industries, founded by 21-year-old Ethan Thornton, lands US Army contract, builds weapons factory
+  People are using Super Mario to benchmark AI now
+  Deutsche Telekom and Perplexity announce new ‘AI Phone’ priced at under $1K
+  Signal is the No. 1 downloaded app in the Netherlands. But why?
+ Catch up on trending topics San Francisco | April 3, 2025 UC Berkeley | June 5, 2025 Boston | July 15, 2025 San Francisco | October 27 – 29, 2025 Subscribe for the industry’s biggest tech news Every weekday and Sunday, you can get the best of TechCrunch’s coverage. Startups are the core of TechCrunch, so get our best coverage delivered weekly. Get the best of our coverage, delivered to your inbox every Saturday. TechCrunch Mobility is your destination for transportation news and insight. By submitting your email, you agree to our Terms and Privacy Notice. Researchers at Google DeepMind published a demonstration of miniature humanoid robots playing a one-on-one game of soccer. More From: 
+				Equity is TechCrunch’s flagship podcast about the business of startups, unpacked by the writers who know best. Produced by Theresa Loconsolo. Edited by Kell.			 
+				Each week, StrictlyVC’s host and TechCrunch Editor-in-Chief Connie Loizos, with Alex Gove, former journalist, VC and operating exec, review the top stories in StrictlyVC and interview a mover and shaker in the world of tech.			 © 2024 Yahoo.
+
+Title: The Verge
+Content: Upgrades at a lower cost. I’ll take it. Feed refreshed 8 seconds ago  MW See Disney is reportedly laying off 200 employees (about 6% of its workforce) from its ABC News Groupand Disney Entertainment Networks units. The latest round of firings will impact ABC’s 20/20 and Nightline news magazine shows, whose production teams are being consolidated into a single unit. And Disney also plans to wind down 538, which the company bought back in 2018 — freeing Nate Silver up to pursue his other passions. [variety.com] The new M3 Ultra Mac Studio can get up to 512GB of RAM and 16TB of storage, but it’ll cost you $14,099 for that, minus add-ons. That’s a jump from the $8,799 ceiling we reached (using The Internet Archive) for the previous model, which only reaches 192GB of RAM and an 8TB SSD. It’s still a deal compared to some Mac Pro configurations of the past. Sony just issued a new update for the nearly 20-year-old console. This brings the software up to version 4.92 and, as Eurogamer notes, these updates are an annual occurrence to renew the Blu-ray player’s encryption key, so that you can still use the PS3 for watching new movies. [playstation.com] The Competition and Markets Authority has ruled that the relationship between the two companies “does not qualify for investigation” under merger rules. The CMA said in 2023 that it was assessing whether Microsoft’s $13 billion investment into the AI startup gave it de facto control over OpenAI policy. While now satisfied that it doesn’t, the CMA says that Microsoft “instead exerts a high level of material influence over that policy.” [gov.uk] US consumers hoping to avoid price increases associated with Trump’s tariffs can’t just “buy American,” not with supply chains spanning North America and the world. The New York Times explores the impact tariffs will have on US automakers who are particularly at risk given the number of cars assembled in Mexico and Canada — with US-made engines and transmissions — before being shipped back across the border for purchase.  The footage is so crisp that it almost looks like CGI. Check out the incredible shot of the Firefly Aerospace lander’s shadow coming back into focus after the Moon dust settles. District Judge Yvonne Gonzalez Rogers has denied Musk’s request for an injunction to pause the ChatGPT maker’s transition to a for-profit company. The case is now set for an expedited trial this fall given “the public interest at stake.” This comes after OpenAI unanimously rejected Musk’s unsolicited $97.4 billion offer to buy the AI startup. In February Rogers said she was unlikely to issue an injunction in a case pitting “billionaires versus billionaires.” [bloomberg.com] Disney Plus’ new Daredevil series is an uneven reboot that’s fighting to leave its past behind. As Bloomberg reports: Google is urging officials at President Donald Trump’s Justice Department to back away from a push to break up the search engine company, citing national security concerns, according to people familiar with the discussions.  President Biden’s DOJ had said Google must sell Chrome as part of its proposed remedies in the antitrust case where Google was ruled a monopolist. [bloomberg.com] Samsung says that users can test the One UI 7 beta on the Galaxy Z Fold 6 and Z Flip 6 in India, Korea, the UK, and the US beginning March 6th. This month, the beta will also be available on Galaxy S23 series smartphones, Tab S10 series tablets, and A55 phones, Samsung says. The update is set to officially launch in April. [news.samsung.com] If you share photos with a partner on Android, you’ll now be able to choose to have screenshots or photos from other apps automatically shared to that library. Google originally stopped this functionality in November, but adding this toggle to be able to do so in response to feedback from users. [support.google.com] As MacRumors points out, with today’s iPad announcements and the recent iPhone 16E launch, Apple no longer sells new iPhones or iPads with 64GB of base storage. Finally. [macrumors.com] The handy feature is now available in a browser and will be coming to the mobile app “in a future update,” according to Valve’s latest Steam Deck patch notes. [store.steampowered.com] Commerce Secretary Howard Lutnick tells Fox Business that President Trump’s administration may announce some kind of changes to the tariffs in place on Mexico and Canada tomorrow, though it apparently won’t be a full pause. “I think he’s gonna figure out, you do more and I’ll meet you in the middle some way, and we’re gonna probably be announcing that tomorrow,” says Lutnick. [foxbusiness.com] How do you say with a straight face that the government needs an XRP stockpile? We’ve said before you should buy a Brother printer because “It will be fine!” But maybe that’s not so anymore: In a video spotted by Toms Hardware, YouTuber Louis Rossman says Brother has followed the rest of the printer industry into the darkness with user-hostile, anti-aftermarket ink software updates. We’ve reached out to Brother for more information, and we’ll update you when we know more. The Digital Deluxe Edition of Tony Hawk’s Pro Skater 3 + 4 will include Doom’s Doom Slayer and a Revenant as playable skaters, and they look ridiculous in this trailer. Business Insider reports that it’s “tentatively scheduled to launch by June” and would have Nova branding. [businessinsider.com] Commerce Secretary Howard Lutnick plans to make an internet infrastructure investment program “technology-neutral,” according to The Wall Street Journal, meaning Elon Musk’s Starlink could more easily benefit. The program currently favors investment in fiber. [wsj.com] Succession may be over, but Jesse Armstrong has written and directed a new feature length project for HBO about “a group of billionaire friends get together against the backdrop of a rolling international crisis,” which sounds like the next best thing to the show coming back for another season. The movie stars Steve Carell, Jason Schwartzman, Cory Michael Smith, and Ramy Youssef, and it’s set to debut this spring. [press.wbd.com] © 2025 Vox Media, LLC. All Rights Reserved
+
+Title: WIRED - The Latest in Technology, Science, Culture and Business | WIRED
+Content: More From WIRED Reviews and Guides © 2025 Condé Nast. All rights reserved. WIRED may earn a portion of sales from products that are purchased through our site as part of our Affiliate Partnerships with retailers. The material on this site may not be reproduced, distributed, transmitted, cached or otherwise used, except with the prior written permission of Condé Nast. Ad Choices
