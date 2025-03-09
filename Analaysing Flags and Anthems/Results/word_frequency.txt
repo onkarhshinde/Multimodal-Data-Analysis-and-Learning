@@ -1,0 +1,21 @@
+Top 20 Most Common Words in National Anthems:
+us: 125
+land: 65
+live: 39
+people: 39
+country: 37
+let: 37
+one: 35
+god: 32
+homeland: 31
+shall: 28
+glory: 28
+free: 28
+heart: 27
+love: 27
+sons: 26
+flag: 26
+thy: 23
+freedom: 23
+great: 22
+nation: 21
