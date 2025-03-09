@@ -91,7 +91,7 @@ This project focuses on **scalable data collection**, **multimodal analysis**, a
 
 ### **🔹 Clone the Repository**  
 ```sh
-git clone https://github.com/onkarhshinde/your-repository.git
+git clone https://github.com/onkarhshinde/Multimodal-Data-Analysis-and-Learning
 cd your-repository
 ```
 
