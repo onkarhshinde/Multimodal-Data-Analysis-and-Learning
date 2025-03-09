@@ -45,6 +45,21 @@ The `metadata.csv` file provides essential details for each image:
 
 ---
 
+## dataset Analysis using EfficientNetB0 model (Pre-trained on ImageNet and fine-tuned on Divine_Vision dataset)
+   code for it is available in "classfier.ipynb: file 
+   
+   Finetuned model is available as "divinevision_classifier.h5"
+### Results of last 2 epochs 
+##### Epoch 14/15
+##### 25/25 ━━━━━━━━━━━━━━━━━━━━ 14s 546ms/step - accuracy: 0.8855 - loss: 0.6511 - val_accuracy: 0.7085 - val_loss: 1.1687
+##### Epoch 15/15
+##### 25/25 ━━━━━━━━━━━━━━━━━━━━ 14s 554ms/step - accuracy: 0.8780 - loss: 0.6261 - val_accuracy: 0.7085 - val_loss: 1.1585
+
+### Evaluation & Performance
+![output](https://github.com/user-attachments/assets/881eb114-1972-44b9-ac98-79b8fe772913)
+
+
+
 ##  **Challenges & Considerations**  
 Despite meticulous dataset curation, several challenges were encountered:  
 - **Limited availability of deity-specific images**, leading to the inclusion of temple sculptures and artistic representations.  
