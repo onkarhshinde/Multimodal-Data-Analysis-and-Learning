@@ -1,8 +1,9 @@
 # Multimodal-Data-Analysis-and-Learning 
 
 ## **About This Project**  
-This project focuses on **scalable data collection**, **multimodal analysis**, and **computational techniques** to explore data from multiple modalities: **images, text, audio, and structured datasets**. The repository is structured to cover various datasets and analyses, demonstrating real-world applications of **machine learning**, **data visualization**, and **pattern recognition**.
 
+#### This project focuses on **scalable data collection**, **multimodal analysis**, and **computational techniques** to explore data from multiple modalities: **images, text, audio, and structured datasets**.  The repository is structured to cover various datasets and analyses, demonstrating real-world applications of **machine learning**, **data visualization**, and **pattern recognition**. 
+#### Additionally, it includes mapping and alignment techniques using Dynamic Time Warping (DTW) and the Hungarian Algorithm to efficiently search and match corresponding patterns across different modalities.
 ---
 
 ## **📂 Repository Structure**  
@@ -12,6 +13,7 @@ This project focuses on **scalable data collection**, **multimodal analysis**, a
 📁 `Audio Dataset Collection` - **Automated collection of online AM/FM radio stations**         
 📁 `Analyzing India with Data` - **Extracting insights from Indian open government datasets**  
 📁 `Image_Dataset_Collection` - **Automated collection of categorized images**  
+📁 `Search for a match` - **Mapping Video to Audio Files**   
 📁 `Text Dataset Collection` - **Web scraping and NLP-based text analysis**  
 📁 `Weather Dataset Collection` - **Historical and real-time weather data processing**  
 
